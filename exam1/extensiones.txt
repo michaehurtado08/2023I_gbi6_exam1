@@ -1,0 +1,11 @@
+      1 .bai
+      1 .bam
+      5 .csv
+      1 .fastq
+      5 .gz
+      2 .pdf
+      6 .png
+      1 .sam
+      1 .sh
+      2 .tsv
+     11 .txt
